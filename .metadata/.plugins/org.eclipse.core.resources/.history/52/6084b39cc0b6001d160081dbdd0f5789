@@ -1,0 +1,13 @@
+quarkus.swagger-ui.always-include=true
+quarkus.swagger-ui.path=/swagger-ui.html
+
+quarkus.datasource.url=
+
+
+quarkus.datasource.db-kind=jdbc-mysql
+quarkus.datasource.username=root
+quarkus.datasource.password=test123
+
+quarkus.datasource.jdbc.url=jdbc:mysql://localhost:3306/teste?createDatabaseIfNotExist=true
+
+quarkus.hibernate-orm.dialect=org.hibernate.dialect.MySQL8Dialect
