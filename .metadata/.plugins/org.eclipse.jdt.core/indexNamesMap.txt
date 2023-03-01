@@ -1,3 +1,0 @@
-INDEX VERSION 1.131
-file:/C:/Users/018039631/Desktop/Projetos%20Java/Estudos/Quarkus/Primeiro%20projeto/.metadata/.plugins/org.eclipse.jdt.core/1865797976.index
-meta_index

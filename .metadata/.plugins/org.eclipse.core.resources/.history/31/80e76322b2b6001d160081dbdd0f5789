@@ -1,8 +1,0 @@
-package br.com.luisa.resource;
-
-import javax.ws.rs.Path;
-
-@Path("produtos")
-public class ProdutoResource {
-
-}
